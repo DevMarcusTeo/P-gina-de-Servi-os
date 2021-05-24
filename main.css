@@ -1,0 +1,163 @@
+body {
+width: 100%;
+height: 100%;
+margin: 0 auto;
+background:url(img/fundo.jpg);
+
+}
+ul {
+   padding: 0px!important; 
+}
+.menu-principal {
+width: 100%;
+background-color:#ffffc3;
+height: 95px;
+
+}
+main .content {
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+.redes-sociais ul li {
+margin-left: 70px;
+display: inline-block;
+float: left;
+list-style: none;
+font-family: sans-serif;
+font-size: 12px;
+
+
+}
+.redes-sociais {
+float: left;
+}
+.header-2 {
+background-color: #FFBE91;
+width: 100%;
+display: inline-block;
+margin-left: auto;
+
+}
+.menu-urls {
+height: 100px;
+border-bottom: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 125px;
+    height: 0px;
+}
+
+.menu ul li:hover {
+    border-bottom: 5px solid #00bac6;
+}
+
+.menu ul li a:hover {
+    color: #00bac6;
+    
+}
+
+.menu ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+   font-family: calibri;
+}
+.menu {
+width: 110%;
+float:left;
+
+
+
+}
+
+#servicos h1{
+    margin-left: 510px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#servicos p{
+    margin-left: 350px;
+    font-size: 19px;
+    font-family: calibri;
+}
+#menuu{ 
+    margin-top: 10px;
+    list-style: none;
+    padding: 5px;
+    font-size: 24px;
+ }
+  #menuu li{
+      width: 200px;
+      background-color: #FFBE91;
+      display: inline-block;
+      margin-left: 100px;
+      font-size: 18px;
+      font-family: calibri;
+  }  
+  
+  #menuu a{
+     
+     display: inline-block;
+     width: 200px;
+     height: 30px;
+     text-align: center;
+     padding: top 10px;
+  }
+  
+
+  #menuu a:link {
+     text-decoration: none;
+     color: black;
+   }
+
+  #menuu a:visited{
+     color: red;
+  }
+  #menuu a:hover {
+       background-color: saddlebrown;
+       color: white;
+  }
+  #menuu a :active{
+     background-color: green;
+     color: yellow;
+  }
+
+  #principall{
+      
+      margin:auto;
+  }
+
+  #corpo{
+      width: 350px;
+      height: 45px;
+      background-color: #ffbe91;
+  }
+  #corpo h1{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 24px;
+      text-align: center;
+      padding-top: 10px;
+     
+  }
+
+  #ob h2{
+    margin-left: 570px;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+  }
+
+  #ob p{
+    margin-left: 415px;
+    font-size: 15px;
+    font-family: calibri;
+    margin-top: auto;
+    
+}
+
+
+
